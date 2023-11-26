@@ -1,2 +1,2 @@
-# Organiza-o-De-Sistemas-Operacionais
+# Organizacao-De-Sistemas-Operacionais
 Professor: Jefferson
